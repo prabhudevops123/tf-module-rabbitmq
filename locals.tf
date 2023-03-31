@@ -1,3 +1,4 @@
 locals {
-  parameters = ([var.component])
+  parameters = [var.component]
 }
+
